@@ -1,4 +1,3 @@
-# blockchain-arontend
+# blockchain-frontend
 
-@bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 리포지토리 생성
